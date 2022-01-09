@@ -1,5 +1,7 @@
 # Word Memorizing Game
 
+## This should be set of games that will help learning languages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
